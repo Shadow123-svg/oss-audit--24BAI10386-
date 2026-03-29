@@ -10,8 +10,8 @@ Along with the theoretical analysis, the project also includes practical impleme
 
 ## 👤 Student Details
 
-* **Name:** Aritra Dhuan
-* **Registration Number:** ______
+* **Name:** Utkarsh Mishra
+* **Registration Number:** 24BAI10386
 * **Course:** Open Source Software
 
 ---
